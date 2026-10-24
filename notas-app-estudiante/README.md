@@ -2,8 +2,8 @@
 
 | Dato | Completa aquí |
 |---|---|
-| Aprendiz | (tu nombre completo) |
-| Ficha | (número de ficha) |
+| Aprendiz | (Nicolas Montenegro Galeano) |
+| Ficha | (3292107) |
 | Cobertura de líneas alcanzada en `CarritoCompras` | (ej. 95 %) |
 
 ## Contenido
