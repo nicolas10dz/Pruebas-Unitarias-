@@ -14,3 +14,9 @@
 ## Cómo ejecutar
 - IntelliJ: clic derecho en `src/test/java` › More Run/Debug › Run 'All Tests' with Coverage
 - Maven: `mvn clean test` → reporte en `target/site/jacoco/index.html`
+Pruebas 1 Calculadora De Notas
+![img.png](img.png)
+
+
+Prueba 2 Carrito de Compras
+![img_1.png](img_1.png)
